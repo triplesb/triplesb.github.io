@@ -7,14 +7,13 @@ excerpt: "When most people hear the name _Bohr_, their minds jump straight to Ni
 categories: history
 tags:  bohr
 image:
-  feature: walt-disney.jpg
+  feature: ellen-adler-bohr.png
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Walt_Disney)
 
 # **Ellen Adler Bohr: The Quiet Courage Behind a Great Mind**
 
